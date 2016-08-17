@@ -3,7 +3,7 @@
 
 This node allows you to create a cloud of the compound concepts - each concept can consist of multiple words. The node can create a visualization for data in a modeler data object. The extension has options to modify the look of the created cloud and allows to save output cloud to PNG file. 
 
-![sample_output](C:\Users\IBM_ADMIN\Desktop\Concept_Cloud_Visualization\Screenshot\OutputExample.png)
+![sample_output](https://github.com/kbaron-palucka/Concept_Cloud_Visualization/blob/master/Screenshot/OutputExample.png)
 
 
   
@@ -17,7 +17,7 @@ Adjust Concept Cloud Display options. Choose colors to be used based on the R Co
 
 To save output concept file in PNG file, specify name of the file and its location in Save Options section. The width and height values in this section are in inches.
 
-![Dialog1](C:\Users\IBM_ADMIN\Desktop\Concept_Cloud_Visualization\Screenshot\Dialog1.png)
+![Dialog1](https://github.com/kbaron-palucka/Concept_Cloud_Visualization/blob/master/Screenshot/Dialog1.png)
 
 
 
