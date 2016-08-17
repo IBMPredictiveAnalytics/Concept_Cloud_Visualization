@@ -46,8 +46,7 @@ To save output concept file in PNG file, specify name of the file and its locati
 
 ###Documentation and samples
 
-- Find a PDF with the documentation of this extension in the [Documentation](C:\Users\IBM_ADMIN\Desktop\Concept_Cloud_Visualization\Documentation) directory
-- There is a sample available in the [Example](C:\Users\IBM_ADMIN\Desktop\Concept_Cloud_Visualization\Example) directory
+- There is a sample stream with data and step-by-step guide available in the [Example](https://github.com/kbaron-palucka/Concept_Cloud_Visualization/tree/master/Example) directory
 
 
 
